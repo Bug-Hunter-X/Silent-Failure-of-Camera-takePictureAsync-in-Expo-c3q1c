@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Camera` API and attempting to access the `takePictureAsync` method before the camera has finished loading.  This often manifests as a silent failure, with no clear error message.  The app may appear to freeze or behave unexpectedly.
